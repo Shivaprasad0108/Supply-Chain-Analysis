@@ -34,7 +34,12 @@ You can view the live Power BI dashboard here:
 2. Analyze cost trends over time for better budgeting.
 3. Spot regions with high operational costs.
 4. Track lead times and reduce delivery delays.
+## 📷 Sample Screenshots
+https://github.com/Shivaprasad0108/Supply-Chain-Analysis/blob/main/Overview.png - OVERVIEW
+https://github.com/Shivaprasad0108/Supply-Chain-Analysis/blob/main/Product%20Insights.png - Product Insights
+https://github.com/Shivaprasad0108/Supply-Chain-Analysis/blob/main/Supplier%20Insights.png - supplier Insights
 
 ---
 
-## 📂 Repository Structure
+📬 Contact
+If you have any questions or suggestions, feel free to connect with me on LinkedIn or raise an issue in this repository.
